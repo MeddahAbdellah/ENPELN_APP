@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "enpeln.com.com"
+    },
+    "com-badrit-macaddress": {
+      "PACKAGE_NAME": "enpeln.com.com"
+    },
+    "cordova-plugin-ble-central": {
+      "PACKAGE_NAME": "enpeln.com.com"
+    }
+  },
+  "dependent_plugins": {}
+}

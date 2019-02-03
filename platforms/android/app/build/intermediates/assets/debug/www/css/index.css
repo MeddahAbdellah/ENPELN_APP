@@ -1,0 +1,33 @@
+body{
+  background: grey;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
+.unlock{
+  width: 200px;
+  height: 200px;
+  padding: 5px;
+  border-radius: 100%;
+  background: blue;background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+  transition: 0.4s;
+}
+button[name="unlock"]{
+  width: 100%;
+  height: 100%;
+  border-radius: 100%;
+  background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  color:#607D8B;
+  font-size: 4em;
+}
+.unlock:hover {
+  -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
+}

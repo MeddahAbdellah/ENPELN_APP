@@ -1,0 +1,4 @@
+#Thu Jan 24 10:48:31 WAT 2019
+base.0=D\:\\CordovaApp\\enpeln\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\CordovaApp\\enpeln\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
